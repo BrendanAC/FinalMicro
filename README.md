@@ -9,3 +9,7 @@ The project will display a light on the 3x3 matrix that will correspond to the p
 
 There is more detailed information on the wiring, set-up, and program use within the comments of the code. 
 We have also included an image of the wiring diagram, and the actual fritzing file. 
+
+Here is a link to a video of the hardware in action. 
+https://www.youtube.com/watch?v=LLm35D2NqRQ
+
